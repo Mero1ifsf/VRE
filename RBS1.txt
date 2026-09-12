@@ -1,2 +1,2 @@
 --VV2
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Mero1ifsf/VRE/refs/heads/main/RBS.txt?token=GHSAT0AAAAAAEIUIH4HI5WPUKS5SBQBB7KW2VFM5RQ"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mero1ifsf/VRE/refs/heads/main/RBS.txt"))()
